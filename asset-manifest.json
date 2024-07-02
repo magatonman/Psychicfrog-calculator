@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Psychicfrog-calculator/static/css/main.87d90a47.css",
+    "main.js": "/Psychicfrog-calculator/static/js/main.e06ed698.js",
+    "static/js/453.46482f6b.chunk.js": "/Psychicfrog-calculator/static/js/453.46482f6b.chunk.js",
+    "index.html": "/Psychicfrog-calculator/index.html",
+    "main.87d90a47.css.map": "/Psychicfrog-calculator/static/css/main.87d90a47.css.map",
+    "main.e06ed698.js.map": "/Psychicfrog-calculator/static/js/main.e06ed698.js.map",
+    "453.46482f6b.chunk.js.map": "/Psychicfrog-calculator/static/js/453.46482f6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d90a47.css",
+    "static/js/main.e06ed698.js"
+  ]
+}
